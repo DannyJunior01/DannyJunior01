@@ -7,7 +7,7 @@ Hola, soy **Francisco Daniel**, estudiante de **Ingeniería de Software** de 21 
 Me apasiona diseñar interfaces centradas en el usuario, accesibles y visualmente atractivas.  
 Trabajo principalmente con **Figma**, **React**, **Tailwind CSS** y tecnologías modernas del frontend.
 
-Actualmente estoy enfocándome en proyectos web donde el diseño y la experiencia del usuario son clave.  
+Actualmente estoy enfocándome en proyectos de UXUI donde el diseño y la experiencia del usuario son clave.  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DannyJunior01&theme=cyber-streakglow)](https://git.io/streak-stats)
 
